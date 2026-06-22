@@ -277,3 +277,5 @@ ext-intl.
 - **Nuevas Imágenes y Tipografías:**
   - Se conectaron las tres imágenes para la cuadrícula de Historias (`StoriesGrid.tsx`): `historias_selva_1.jpg`, `historias_casa_afro.jpg`, e `historias_juventud.jpg`.
   - Se actualizó el banner de Donaciones (`DonationsBanner.tsx`) con la imagen de fondo `fondo_donaciones.png` y se corrigió la tipografía (`font-sans`) para que respete el uso de minúsculas correctamente.
+- **Correcciones de Internacionalización y Errores (Fixes):**
+  - Se resolvió un error de compilación (`INVALID_MESSAGE: INVALID_TAG`) en la sección `UneteCausaSection` provocado por el parser de etiquetas HTML de `next-intl`. Se implementó el uso de `t.raw()` en `dangerouslySetInnerHTML` para permitir la inyección correcta del código estructurado sin que la librería intente traducirlo.
