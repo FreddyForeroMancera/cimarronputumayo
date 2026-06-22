@@ -14,7 +14,7 @@ export default function StoriesGrid() {
       author: t('stories.1.author'),
       date: t('stories.1.date'),
       categories: [t('stories.1.categories.0'), t('stories.1.categories.1')],
-      imageUrl: '/images/hero/hero_bg.png', // Placeholder
+      imageUrl: '/images/historias_selva_1.jpg',
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ export default function StoriesGrid() {
       author: t('stories.2.author'),
       date: t('stories.2.date'),
       categories: [t('stories.2.categories.0'), t('stories.2.categories.1')],
-      imageUrl: '/images/hero/hero_bg.png',
+      imageUrl: '/images/historias_casa_afro.jpg',
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ export default function StoriesGrid() {
       author: t('stories.3.author'),
       date: t('stories.3.date'),
       categories: [t('stories.3.categories.0'), t('stories.3.categories.1')],
-      imageUrl: '/images/hero/hero_bg.png',
+      imageUrl: '/images/historias_juventud.jpg',
     }
   ];
 

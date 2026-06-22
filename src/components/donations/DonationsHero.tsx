@@ -24,7 +24,7 @@ export default function DonationsHero() {
         {/* Right Image */}
         <div className="w-full lg:w-1/2 relative aspect-square lg:aspect-[4/4.5] overflow-hidden shadow-lg">
           <Image 
-            src="/images/hero/hero_bg.png" /* Placeholder until we get the actual image */
+            src="/images/donaciones_hero.png"
             alt="Familia afroputumayense sonriendo"
             fill
             className="object-cover"

@@ -274,3 +274,6 @@ ext-intl.
 - **Refinamiento Funcional:**
   - Se refactorizó `DonationSection.tsx` transformándolo en un *Client Component* (`'use client'`).
   - El botón inferior de "DONAR AHORA" en la página principal ahora abre directamente el modal flotante (`DonateModal`) en lugar de redirigir a otra ruta, unificando la experiencia de usuario.
+- **Nuevas Imágenes y Tipografías:**
+  - Se conectaron las tres imágenes para la cuadrícula de Historias (`StoriesGrid.tsx`): `historias_selva_1.jpg`, `historias_casa_afro.jpg`, e `historias_juventud.jpg`.
+  - Se actualizó el banner de Donaciones (`DonationsBanner.tsx`) con la imagen de fondo `fondo_donaciones.png` y se corrigió la tipografía (`font-sans`) para que respete el uso de minúsculas correctamente.

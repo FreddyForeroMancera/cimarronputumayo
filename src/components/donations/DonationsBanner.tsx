@@ -6,7 +6,7 @@ export default function DonationsBanner() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image 
-          src="/images/hero/hero_bg.png" /* Placeholder */
+          src="/images/fondo_donaciones.png"
           alt="Paisaje del Putumayo al atardecer"
           fill
           className="object-cover"
@@ -17,9 +17,9 @@ export default function DonationsBanner() {
       
       {/* Content */}
       <div className="relative z-10 w-full max-w-5xl mx-auto text-center px-4">
-        <h2 className="font-heading text-3xl md:text-5xl lg:text-[56px] text-white drop-shadow-md leading-tight tracking-wide">
-          Brindanos tu apoyo para defender la vida, la memoria y la dignidad<br className="hidden lg:block" />
-          <span className="lg:mt-4 inline-block">de la comunidad y el territorio</span>
+        <h2 className="font-sans font-bold text-2xl md:text-4xl lg:text-[48px] text-white drop-shadow-md leading-tight tracking-wide">
+          Bríndanos tu apoyo para defender la vida, la memoria y la dignidad<br className="hidden lg:block" />
+          <span className="lg:mt-2 inline-block">de la comunidad y el territorio</span>
         </h2>
       </div>
     </section>
