@@ -17,7 +17,7 @@ export default function UneteCausaSection() {
             </h2>
             <p 
               className="text-[#2A1308]/80 font-sans text-sm"
-              dangerouslySetInnerHTML={{ __html: t('subtitle') }}
+              dangerouslySetInnerHTML={{ __html: t.raw('subtitle') }}
             />
           </div>
         </div>
