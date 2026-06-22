@@ -1,0 +1,628 @@
+{
+  "Navigation": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "casaAfro": "Casa Afro",
+    "projects": "Proyectos",
+    "stories": "Historias",
+    "calls": "Convocatorias",
+    "donations": "Donaciones",
+    "contact": "Contacto",
+    "donateNow": "Dona ahora"
+  },
+  "Footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "community": "Comunidad",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones"
+  },
+  "Hero": {
+    "brand": "CIMARRON PUTUMAYO",
+    "word1": "HERENCIA",
+    "word2": "VIVA",
+    "line1": "DEL PUEBLO",
+    "line2": "AFROPUTUMAYENSE",
+    "description": "Defendemos la vida, fortalecemos la identidad y abrimos caminos de dignidad, memoria y futuro para las comunidades afro del Putumayo.",
+    "projectsBtn": "CONOCE NUESTROS PROYECTOS",
+    "supportBtn": "APOYA NUESTRA CAUSA"
+  },
+  "Stories": {
+    "Hero": {
+      "title": "Historias"
+    },
+    "Featured": {
+      "title": "Librada Maturana; el legado de una mujer cimarrón que luchó por la igualdad, la equidad y el territorio.",
+      "excerpt": "Hablar de Librada Maturana es hablar de memoria viva, de resistencia, de dignidad y de amor profundo por el pueblo afro del Putumayo. Su legado no se mide solamente en los años de lucha, sino en las huellas que dejó sembradas en la conciencia de su comunidad...",
+      "readMore": "VER MÁS",
+      "photoPlaceholder": "[Fotografía de Librada Maturana]"
+    },
+    "Infographic": {
+      "title": "Cimarronaje y Resistencia",
+      "subtitle": "Del Palenque al Putumayo. Una línea de tiempo sobre la presencia afro en la región.",
+      "imageAlt": "Infografía: Cimarronaje y Resistencia"
+    },
+    "Grid": {
+      "by": "en",
+      "stories": {
+        "1": {
+          "title": "Ruby Maturana, heredera de una historia que hoy sigue transformando vidas",
+          "excerpt": "Ruby Maturana encarna la fuerza de un legado que no se detuvo, sino que floreció en una nueva generación. Como hija de Librada Maturana, hoy lidera con amor...",
+          "author": "El Nuevo Liderazgo",
+          "date": "Octubre 2024",
+          "categories": {
+            "0": "Liderazgo",
+            "1": "Legado"
+          }
+        },
+        "2": {
+          "title": "La selva del putumayo es nuestro sustento",
+          "excerpt": "Para las comunidades afro cimarronas del Putumayo, la selva no es un paisaje lejano ni un simple fondo verde del territorio. Es casa, alimento, medicina...",
+          "author": "Territorio",
+          "date": "Septiembre 2024",
+          "categories": {
+            "0": "Medio Ambiente",
+            "1": "Saberes"
+          }
+        },
+        "3": {
+          "title": "Uramba Cimarrón: El trabajo colectivo que sostiene la memoria",
+          "excerpt": "En Cimarrón Putumayo, la palabra Uramba no nombra solo una actividad comunitaria. Nombra una manera de vivir, de resistir y de construir juntos.",
+          "author": "Comunidad",
+          "date": "Agosto 2024",
+          "categories": {
+            "0": "Comunidad",
+            "1": "Cultura"
+          }
+        }
+      }
+    }
+  },
+  "DonateModal": {
+    "leftTitle1": "Siembra",
+    "leftTitle2": "dignidad hoy",
+    "leftDesc": "Tu aporte internacional financia educación, cultura y defensa de derechos humanos en las comunidades afro del Putumayo.",
+    "rightTitle": "Haz tu donación",
+    "rightDesc": "Selecciona la frecuencia y el monto de tu aporte.",
+    "freqLabel": "1. Frecuencia",
+    "freqOnce": "Una sola vez",
+    "freqMonthly": "Mensual",
+    "amountLabel": "2. Monto (USD)",
+    "customAmountPlaceholder": "Escribe otro monto",
+    "donateBtn": "Donar",
+    "donateMonthlySuffix": "al mes",
+    "secureTransaction": "Transacción segura. Puedes cancelar tu donación mensual en cualquier momento."
+  },
+  "Terms": {
+    "title": "Términos y Condiciones de Uso",
+    "subtitle": "Asociación Departamental por los Derechos Humanos de Consejos Comunitarios, Organizaciones de Base y demás formas Cimarrón Putumayo",
+    "sections": [
+      {
+        "title": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar el sitio web de Cimarrón Putumayo (en adelante, 'el Sitio'), usted acepta estar sujeto a estos Términos y Condiciones. Si no está de acuerdo con alguna parte de estos términos, no debe utilizar nuestro sitio web."
+      },
+      {
+        "title": "2. Propiedad Intelectual",
+        "content": "Todo el contenido presente en el Sitio, incluyendo pero no limitado a textos, fotografías, gráficos, logotipos, íconos, audios, videos y software, es propiedad exclusiva de Cimarrón Putumayo o de sus respectivos autores comunitarios, y está protegido por las leyes de propiedad intelectual de Colombia y tratados internacionales. Queda estrictamente prohibida su reproducción, distribución o modificación sin autorización previa y por escrito."
+      },
+      {
+        "title": "3. Uso Aceptable del Sitio",
+        "content": "Usted se compromete a utilizar el Sitio únicamente con fines lícitos y de una manera que no infrinja los derechos de, ni restrinja o inhiba el uso y disfrute del Sitio por parte de cualquier tercero. Queda prohibido el uso del sitio para enviar correo no deseado (spam), transmitir virus, o publicar contenido ofensivo o difamatorio."
+      },
+      {
+        "title": "4. Política de Donaciones",
+        "content": "Las donaciones realizadas a través de nuestro Sitio son aportes voluntarios destinados a apoyar la misión y los proyectos de Cimarrón Putumayo. Una vez procesada una donación, no se realizarán reembolsos, salvo en casos excepcionales de error técnico comprobable en la plataforma de pagos. Al donar, usted declara que los fondos provienen de fuentes lícitas."
+      },
+      {
+        "title": "5. Enlaces a Terceros",
+        "content": "El Sitio puede contener enlaces a sitios web de terceros. Cimarrón Putumayo no tiene control sobre el contenido, políticas de privacidad o prácticas de dichos sitios web, y no asume responsabilidad alguna por ellos."
+      },
+      {
+        "title": "6. Modificaciones",
+        "content": "Cimarrón Putumayo se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento. Los cambios entrarán en vigor inmediatamente después de su publicación en el Sitio. Su uso continuado del Sitio después de cualquier cambio constituye su aceptación de los nuevos Términos."
+      },
+      {
+        "title": "7. Ley Aplicable",
+        "content": "Estos Términos y Condiciones se rigen por las leyes de la República de Colombia. Cualquier disputa relacionada con el uso de este Sitio estará sujeta a la jurisdicción exclusiva de los tribunales competentes en Colombia."
+      }
+    ]
+  },
+  "Privacy": {
+    "titleHtml": "Política de Tratamiento de<br />Datos Personales",
+    "subtitle1": "Asociación Departamental por los Derechos Humanos de Consejos Comunitarios, Organizaciones de Base y demás formas",
+    "subtitle2": "Cimarrón Putumayo",
+    "sections": [
+      {
+        "title": "1. Generalidades",
+        "content": "La Asociación Departamental por los Derechos Humanos de Consejos Comunitarios, Organizaciones de Base y demás formas CIMARRÓN PUTUMAYO, identificada con NIT 846003787-0, con domicilio principal en CARRERA 21 # 31-90, Barrio El Jardín, Puerto Asís – Putumayo, Colombia, con correo institucional putumayocimarron@gmail.com, y teléfono 3113590790, en cumplimiento de la Ley 1581 de 2012, Decreto 1377 de 2013 y normas complementarias, adopta la presente Política para garantizar la protección, confidencialidad y adecuado tratamiento de los datos personales de sus asociados, beneficiarios, participantes en proyectos, empleados, contratistas, proveedores, aliados y demás titulares."
+      },
+      {
+        "title": "2. Responsable del tratamiento",
+        "list": [
+          "<strong>Entidad:</strong> Asociación Departamental por los Derechos Humanos de Consejos Comunitarios, Organizaciones de Base y demás formas CIMARRÓN PUTUMAYO",
+          "<strong>NIT:</strong> 846003787-0",
+          "<strong>Representante legal:</strong> CORTES CORTES MARLENY",
+          "<strong>Dirección:</strong> Carrera 21 # 31-90, Barrio El Jardín, Puerto Asís – Putumayo",
+          "<strong>Correo electrónico:</strong> putumayocimarron@gmail.com",
+          "<strong>Teléfono de contacto:</strong> 3113590790"
+        ]
+      },
+      {
+        "title": "3. Datos recolectados",
+        "content": "La entidad recolecta y almacena información personal necesaria para su operación misional y administrativa, tales como:",
+        "list": [
+          "Nombres, apellidos",
+          "Tipo y número de identificación",
+          "Información de contacto: dirección, municipio, teléfono, correo",
+          "Fotografías y material audiovisual en actividades",
+          "Información académica, laboral o de participación social",
+          "Datos bancarios o financieros para pagos contractuales",
+          "Datos sensibles (origen étnico, comunidad, salud, información biométrica), únicamente cuando sea estrictamente requerido por proyectos específicos y con autorización expresa."
+        ]
+      },
+      {
+        "title": "4. Finalidades del tratamiento",
+        "content": "Los datos personales serán usados para:",
+        "list": [
+          "Registro de asociados, representantes, miembros, voluntarios y beneficiarios.",
+          "Ejecución de proyectos sociales, humanitarios, de derechos humanos, ambientales, culturales, académicos o comunitarios.",
+          "Contacto para convocatorias, talleres, eventos, campañas y procesos formativos.",
+          "Gestión de contratistas, proveedores y aliados.",
+          "Seguridad, control de asistencia y evidencias de actividades.",
+          "Reportes a entidades públicas, privadas, financiadoras y de cooperación internacional.",
+          "Manejo contable, laboral, tributario y contractual.",
+          "Envío de información institucional, educativa y comunicaciones oficiales."
+        ],
+        "extraContent": "No se venderá ni entregará información a terceros sin autorización salvo obligación legal."
+      },
+      {
+        "title": "5. Derechos del titular",
+        "content": "Todo titular puede:",
+        "list": [
+          "Consultar sus datos.",
+          "Solicitar actualización, corrección o supresión.",
+          "Revocar autorización.",
+          "Presentar quejas ante la Superintendencia de Industria y Comercio."
+        ]
+      },
+      {
+        "title": "6. Atención de solicitudes",
+        "content": "El titular podrá ejercer sus derechos mediante:",
+        "list": [
+          "Correo institucional: putumayocimarron@gmail.com",
+          "Dirección: Carrera 21 # 31-90, Barrio El Jardín, Puerto Asís – Putumayo",
+          "Teléfono: 3113590790"
+        ],
+        "extraContent": "Plazos legales de respuesta:<br/>Consultas: hasta 10 días hábiles<br/>Reclamos: hasta 15 días hábiles"
+      },
+      {
+        "title": "7. Datos de niños, niñas y adolescentes",
+        "content": "La Asociación solo tratará datos de menores cuando estén ligados a proyectos sociales, educativos o de derechos humanos, protegidos por el interés superior del menor y con autorización del representante legal."
+      },
+      {
+        "title": "8. Seguridad y confidencialidad",
+        "content": "La Asociación implementará medidas técnicas, humanas y administrativas para:",
+        "list": [
+          "Proteger la información.",
+          "Prevenir pérdidas, accesos no autorizados, alteración o uso indebido.",
+          "Garantizar conservación segura de archivos físicos y digitales."
+        ]
+      },
+      {
+        "title": "9. Transferencia de datos",
+        "content": "La información podrá ser suministrada a:",
+        "list": [
+          "Entidades públicas (ICBF, alcaldías, gobernaciones, ministerios).",
+          "Organizaciones aliadas o financiadoras para ejecución de proyectos.",
+          "Entes de control cuando la ley lo exija."
+        ],
+        "extraContent": "Siempre bajo deber de confidencialidad y protección."
+      },
+      {
+        "title": "10. Vigencia",
+        "content": "Esta Política rige a partir de su publicación y los datos permanecerán almacenados mientras:",
+        "list": [
+          "Se mantenga una relación con el titular.",
+          "Existan obligaciones legales o contractuales.",
+          "No se solicite la supresión dentro de los límites de la ley."
+        ]
+      }
+    ]
+  },
+  "ProjectsGrid": {
+    "title": "Nuestros Proyectos en Territorio",
+    "btn": "Conocer Más",
+    "items": {
+      "1": {
+        "title": "URAMBA CIMARRÓN",
+        "text": "Trabajo colectivo, solidaridad y organización comunitaria."
+      },
+      "2": {
+        "title": "ETNODESARROLLO AFROPUTUMAYO",
+        "text": "Procesos para fortalecer autonomía, identidad y desarrollo territorial."
+      },
+      "3": {
+        "title": "TALENTO AFRO INNOVADOR",
+        "text": "Formación, liderazgo y oportunidades para jóvenes afroputumayenses."
+      },
+      "4": {
+        "title": "FORMACIÓN EN DERECHOS",
+        "text": "Procesos pedagógicos para fortalecer ciudadanía, equidad y participación."
+      },
+      "5": {
+        "title": "CASA AFRO LIBRADA MATURANA",
+        "text": "Espacio de resistencia, encuentro y celebración de la identidad."
+      },
+      "6": {
+        "title": "GUARDIANES DE LOS RÍOS",
+        "text": "Cuidado del territorio, la naturaleza y los saberes ambientales."
+      }
+    }
+  },
+  "AboutSection": {
+    "title": "Somos raíz.<br />Somos memoria.<br />Somos putumayo.",
+    "p": "La Asociación Cimarrón Putumayo nace del trabajo colectivo, la defensa de los derechos, la cultura afrodescendiente y el amor por el territorio. Nuestra labor conecta generaciones, protege saberes ancestrales y fortalece procesos comunitarios que construyen dignidad."
+  },
+  "PillarsSection": {
+    "title": "Nuestros Pilares",
+    "items": {
+      "1": {
+        "title": "Cultura e Identidad",
+        "text": "Rescatamos la música, la danza, la gastronomía, los peinados, la oralidad y los saberes propios del pueblo afroputumayense."
+      },
+      "2": {
+        "title": "Territorio y Naturaleza",
+        "text": "Reconocemos la selva, el río y la tierra como sustento, memoria, medicina y escuela de vida para nuestras comunidades."
+      },
+      "3": {
+        "title": "Derechos y Comunidad",
+        "text": "Promovemos liderazgo, participación, oportunidades para mujeres y jóvenes, autonomía económica y defensa de la dignidad."
+      }
+    }
+  },
+  "ProjectsSection": {
+    "title": "Proyectos Que Siembran Dignidad",
+    "btnAll": "Ver Todos<br/>Los Proyectos",
+    "items": {
+      "1": {
+        "title": "URAMBA CIMARRÓN",
+        "text": "Trabajo colectivo, solidaridad y organización comunitaria."
+      },
+      "2": {
+        "title": "ETNODESARROLLO AFROPUTUMAYO",
+        "text": "Procesos para fortalecer autonomía, identidad y desarrollo territorial."
+      },
+      "3": {
+        "title": "TALENTO AFRO INNOVADOR",
+        "text": "Formación, liderazgo y oportunidades para jóvenes afroputumayenses."
+      },
+      "4": {
+        "title": "GUARDIANES DE LOS RÍOS AMAZÓNICOS",
+        "text": "Cuidado del territorio, la naturaleza y los saberes ambientales."
+      },
+      "5": {
+        "title": "FORMACIÓN EN DERECHOS Y LIDERAZGO",
+        "text": "Procesos pedagógicos para fortalecer ciudadanía, equidad y participación."
+      }
+    }
+  },
+  "CasaAfroSection": {
+    "subtitle": "Nuestra Sede",
+    "title": "Casa Afroputumayense<br />Librada Maturana",
+    "p1": "Ubicada en Puerto Asís, la Casa Afro es el corazón de nuestra asociación. Un espacio de encuentro, resistencia, cultura y hermandad para todas las comunidades negras del Putumayo.",
+    "p2": "Aquí realizamos talleres, ensayos musicales, capacitaciones y asambleas. Es nuestra casa, donde las raíces crecen fuertes y la identidad se celebra todos los días.",
+    "btn": "Conoce La Casa"
+  },
+  "FeaturedStorySection": {
+    "badge": "Historia Destacada",
+    "title": "Mujeres tejedoras de memoria en el río Putumayo",
+    "p": "A través del tejido y la medicina tradicional, un grupo de lideresas en las riberas del Putumayo están sanando las heridas del conflicto y transmitiendo su conocimiento ancestral a las nuevas generaciones, demostrando que la resistencia también se teje a mano.",
+    "btn": "Leer Historia Completa"
+  },
+  "DonationSection": {
+    "subtitle": "Súmate a la Causa",
+    "title": "Tu aporte construye<br />autonomía y dignidad",
+    "p1": "Cimarrón Putumayo se sostiene con el trabajo voluntario y la solidaridad. Con tu donación, apoyas directamente la formación de jóvenes, la protección de mayores, el rescate cultural y los proyectos productivos de nuestras comunidades.",
+    "p2": "Juntos podemos fortalecer el legado afro en la Amazonía.",
+    "btn": "Donar Ahora"
+  },
+  "NewsletterSection": {
+    "title": "Mantente conectado con nuestras raíces",
+    "p": "Únete a nuestro boletín para recibir historias, noticias de proyectos, convocatorias y actualizaciones de Cimarrón Putumayo directamente en tu correo.",
+    "inputPlaceholder": "Tu dirección de correo",
+    "btn": "Suscribirme",
+    "btnLoading": "Enviando...",
+    "btnSuccess": "¡Suscrito!",
+    "msgSuccess": "¡Gracias! Te has suscrito exitosamente."
+  },
+  "AboutHero": {
+    "title": "Quiénes Somos",
+    "subtitle": "Raíz, memoria y propósito afroputumayense"
+  },
+  "BaseInstitucionalSection": {
+    "subtitle": "Quiénes somos jurídicamente",
+    "title": "Base Institucional",
+    "p1": "La Asociación Departamental por los Derechos Humanos de Consejos Comunitarios, Organizaciones de Base y demás formas CIMARRON PUTUMAYO, identificada con el NIT. 846003787-0, es una Entidad Sin Ánimo de Lucro (ESAL) del Régimen Tributario Especial.",
+    "items": {
+      "1": {
+        "title": "Personería Jurídica",
+        "text": "Registrada en Cámara de Comercio con matrícula No. S0501868."
+      },
+      "2": {
+        "title": "Registro Único",
+        "text": "Inscrita en el Registro Único de Comunidades Negras del Ministerio del Interior."
+      },
+      "3": {
+        "title": "Registro DIAN",
+        "text": "Actualización anual en el Registro Web de la DIAN como ESAL."
+      },
+      "4": {
+        "title": "Certificación Ministerio",
+        "text": "Certificada por la Dirección de Asuntos para Comunidades Negras, Afrocolombianas, Raizales y Palenqueras."
+      }
+    }
+  },
+  "DefendemosSection": {
+    "title": "¿Qué defendemos?",
+    "p": "Defendemos el derecho a la vida, al territorio, a la identidad cultural y al desarrollo con equidad. Trabajamos por una paz duradera donde las comunidades afrodescendientes sean protagonistas de su propia historia en la Amazonía.",
+    "btn": "Conoce Nuestros Proyectos"
+  },
+  "EsenciaSection": {
+    "subtitle": "Lo que nos define",
+    "title": "Nuestra Esencia",
+    "items": {
+      "1": {
+        "title": "Resistencia",
+        "text": "Nos mantenemos firmes en la defensa de nuestros derechos y territorio, superando obstáculos con la fuerza de nuestros ancestros."
+      },
+      "2": {
+        "title": "Hermandad",
+        "text": "Construimos tejido social basados en el respeto, el apoyo mutuo y el trabajo comunitario (Uramba)."
+      },
+      "3": {
+        "title": "Identidad",
+        "text": "Celeramos y preservamos nuestras raíces africanas a través del arte, la oralidad, la estética y la espiritualidad."
+      },
+      "4": {
+        "title": "Liderazgo",
+        "text": "Formamos nuevas generaciones con capacidad crítica y propositiva para transformar nuestra realidad."
+      }
+    }
+  },
+  "HistoriaSection": {
+    "title": "Nuestra Historia",
+    "p1": "Cimarrón Putumayo nace del anhelo de las comunidades negras por organizarse, ser reconocidas y defender sus derechos en un territorio históricamente marcado por el abandono estatal y el conflicto armado.",
+    "p2": "Desde nuestros inicios, hemos trabajado incansablemente para visibilizar el aporte afrodescendiente a la cultura y el desarrollo del Putumayo. Comenzamos como un pequeño colectivo y hoy somos una red departamental que articula consejos comunitarios y organizaciones de base.",
+    "p3": "A lo largo de los años, hemos liderado procesos de formación, rescate cultural y exigibilidad de derechos, convirtiéndonos en un referente de paz, resistencia y dignidad en la región amazónica."
+  },
+  "LineasAccionSection": {
+    "title": "Nuestras Líneas de Acción",
+    "items": {
+      "1": {
+        "title": "DERECHOS HUMANOS, PAZ Y PROTECCIÓN AL TERRITORIO",
+        "desc": "Defendemos los derechos fundamentales, la vida y el territorio como espacio sagrado de pervivencia cultural y física."
+      },
+      "2": {
+        "title": "ETNOEDUCACIÓN, ARTE, CULTURA E IDENTIDAD AFRO",
+        "desc": "Rescatamos, preservamos y difundimos nuestra herencia cultural, saberes ancestrales y prácticas tradicionales."
+      },
+      "3": {
+        "title": "MUJERES, GÉNERO Y VIDAS LIBRES DE VIOLENCIAS",
+        "desc": "Impulsamos el liderazgo de las mujeres y trabajamos por la equidad de género y una vida libre de todas las violencias."
+      },
+      "4": {
+        "title": "JUVENTUD, FORMACIÓN Y RELEVO GENERACIONAL",
+        "desc": "Acompañamos a niños, niñas y jóvenes en su formación integral y en la construcción de proyectos de vida con sentido."
+      },
+      "5": {
+        "title": "ESCUELA DE LIDERAZGO Y RECONOCIMIENTO ANCESTRAL",
+        "desc": "Formamos liderazgos con ética, identidad y compromiso comunitario para la transformación social."
+      },
+      "6": {
+        "title": "EMPRENDIMIENTO Y SOSTENIBILIDAD ECONÓMICA",
+        "desc": "Promovemos iniciativas económicas y productivas que fortalezcan la autonomía y el buen vivir en el territorio."
+      },
+      "7": {
+        "title": "PAZ, RECONCILIACIÓN Y TEJIDO SOCIAL",
+        "desc": "Construimos convivencia, reconciliación y tejido social para el bienestar colectivo y la defensa de la vida."
+      }
+    }
+  },
+  "MisionVisionSection": {
+    "misionTitle": "Nuestra Misión",
+    "misionText": "Somos una organización comprometida con mantener viva la memoria ancestral, el rescate cultural y la pervivencia de nuestros usos y costumbres, promoviendo el fortalecimiento de niñas, niños y jóvenes a través de procesos de formación, liderazgo, identidad y participación comunitaria, que impulsen su desarrollo integral y su rol activo en la transformación social con dignidad y autonomía.",
+    "visionTitle": "Nuestra Visión",
+    "visionText": "Ser una organización afroputumayense referente en el Putumayo, Colombia y el ámbito internacional, reconocida por su liderazgo en la defensa de los derechos de las comunidades afrodescendientes, el fortalecimiento de la identidad cultural y la promoción de liderazgos y procesos de desarrollo sostenibles con enfoque étnico, territorial, ambiental, de género y paz."
+  },
+  "UneteCausaSection": {
+    "title": "Únete a Nuestra Causa",
+    "subtitle": "Tu apoyo fortalece nuestras comunidades<br class=\"hidden sm:block\" /> y construye un futuro con dignidad.",
+    "btn": "Dona Ahora",
+    "info": "Cada aporte es una semilla de esperanza para el Putumayo afrodescendiente."
+  },
+  "ProjectsHero": {
+    "title": "Proyectos que<br />siembran dignidad",
+    "p1": "En Cimarrón Putumayo impulsamos proyectos que fortalecen la identidad cultural, promueven los derechos humanos, abren oportunidades para mujeres y jóvenes, y construyen caminos de paz, liderazgo y autonomía para nuestras comunidades.",
+    "p2": "Cada proyecto nace de la escucha, de la memoria viva de nuestros mayores, del trabajo colectivo y de la convicción de que el desarrollo solo tiene sentido cuando respeta la identidad, la historia y la dignidad de los pueblos afroputumayenses."
+  },
+  "ProjectsCTA": {
+    "title": "Trabajemos y<br />creemos<br />proyectos<br />comunitarios",
+    "p": "El desarrollo de nuestros territorios depende de la acción colectiva. Si tienes una idea, iniciativa o quieres sumar esfuerzos a nuestros proyectos, la Asociación Cimarrón Putumayo tiene las puertas abiertas para articular procesos en beneficio de las comunidades.",
+    "btn": "Quiero proponer un proyecto"
+  },
+  "ProjectsDirection": {
+    "title": "Dirección de proyectos",
+    "p": "Nuestros proyectos son liderados bajo los principios de transparencia, participación comunitaria y enfoque diferencial. Velamos por que cada iniciativa tenga un impacto real en el territorio y respete la autonomía de nuestros consejos comunitarios."
+  },
+  "StoriesHero": {
+    "title": "Historia y<br />Memoria"
+  },
+  "StoriesInfographic": {
+    "subtitle": "Línea de Tiempo",
+    "title": "La Ruta de la Resistencia",
+    "imageAlt": "Infografía de la historia afro en Colombia y Putumayo"
+  },
+  "FeaturedStory": {
+    "title": "El legado de las cantaoras en el Bajo Putumayo",
+    "excerpt": "Las voces de nuestras mujeres mayores resuenan a lo largo del río, preservando melodías que travesaron océanos. En esta historia, exploramos cómo los cantos tradicionales se han convertido en una herramienta de sanación comunitaria y resistencia pacífica frente a las adversidades del territorio, manteniendo viva la memoria de quienes nos antecedieron.",
+    "readMore": "Leer Historia Completa",
+    "photoPlaceholder": "Fotografía de las cantaoras"
+  },
+  "StoriesGrid": {
+    "by": "Por",
+    "stories": {
+      "1": {
+        "title": "Guardianes de la selva: saberes medicinales ancestrales",
+        "excerpt": "Un recorrido por las huertas tradicionales donde la medicina ancestral sigue siendo la primera línea de cuidado de la vida y el territorio.",
+        "author": "Comité de Comunicaciones",
+        "date": "12 Junio, 2026",
+        "categories": [
+          "Territorio",
+          "Saberes"
+        ]
+      },
+      "2": {
+        "title": "Uramba: El trabajo colectivo que levantó la Casa Afro",
+        "excerpt": "La historia de cómo la solidaridad y el trabajo en equipo de decenas de familias hicieron posible la construcción de nuestro principal punto de encuentro.",
+        "author": "Asociación Cimarrón",
+        "date": "05 Mayo, 2026",
+        "categories": [
+          "Comunidad",
+          "Liderazgo"
+        ]
+      },
+      "3": {
+        "title": "Juventud afroputumayense: nuevas voces, misma raíz",
+        "excerpt": "Los jóvenes están utilizando el arte urbano, la danza contemporánea y los medios digitales para contar la historia afro desde su propia perspectiva.",
+        "author": "Red de Jóvenes",
+        "date": "28 Abril, 2026",
+        "categories": [
+          "Cultura",
+          "Juventud"
+        ]
+      }
+    }
+  },
+  "DonationsHero": {
+    "title": "Dona al presente<br />y al futuro<br />afroputumayense",
+    "p1": "Cada aporte ayuda a fortalecer la identidad cultural, la defensa de los derechos humanos, el liderazgo comunitario, la autonomía económica y la protección de mujeres, jóvenes, niñas y niños afroputumayenses. Tu donación se convierte en acciones reales en el territorio.",
+    "p2": "En Cimarrón Putumayo trabajamos por el fortalecimiento de la identidad afro, la participación comunitaria, la educación, el liderazgo, los proyectos productivos y la protección de los derechos de nuestras comunidades."
+  },
+  "DonationsCorporate": {
+    "title": "Responsabilidad<br />Social Empresarial",
+    "p": "Invitamos a empresas, fundaciones y marcas a apoyar procesos de educación, identidad, bienestar, emprendimiento y fortalecimiento comunitario en el Putumayo, generando un impacto real, humano y sostenible.",
+    "btn": "Suma Tu Empresa"
+  },
+  "DonationsMicro": {
+    "title": "Microdonaciones"
+  },
+  "ContactForm": {
+    "successTitle": "¡Mensaje Enviado!",
+    "successText": "Gracias por escribirnos. Nos pondremos en contacto contigo pronto.",
+    "btnAnother": "Enviar otro mensaje",
+    "title": "Envíanos un mensaje",
+    "nameLabel": "Nombre completo",
+    "namePlaceholder": "Tu nombre",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tu@email.com",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "¿En qué podemos ayudarte?",
+    "btnSending": "Enviando...",
+    "btnSend": "Enviar Mensaje",
+    "errName": "El nombre debe tener al menos 2 caracteres",
+    "errEmail": "Email inválido",
+    "errMessage": "El mensaje debe tener al menos 10 caracteres"
+  },
+  "ContactPage": {
+    "title": "Contacto",
+    "subtitle": "Estamos aquí para escucharte. Si quieres sumarte a nuestra causa, tienes alguna duda o propuesta, no dudes en escribirnos.",
+    "infoTitle": "Información de Contacto",
+    "addressTitle": "Dirección",
+    "address1": "Carrera 21 No. 31 - 90",
+    "address2": "Casa de Cultura Afroputumayense Librada Maturana",
+    "address3": "Puerto Asís - Putumayo",
+    "phoneTitle": "Teléfono",
+    "emailTitle": "Email"
+  },
+  "CasaAfroPage": {
+    "title1": "Casa de Cultura Afroputumayense",
+    "subtitle1": "Librada Maturana",
+    "desc1": "Un espacio vital para la memoria, el encuentro y la construcción comunitaria en el corazón del Putumayo.",
+    "title2": "Nuestro Hogar Comunitario",
+    "desc2_1": "La Casa Afro es más que una estructura física; es el corazón vibrante de nuestra organización. Aquí se entrelazan nuestras tradiciones, se planea el futuro y se celebra la vida.",
+    "desc2_2": "En este espacio desarrollamos talleres, reuniones comunitarias, ensayos musicales y actividades de preservación cultural."
+  },
+  "ProjectDetails": {
+    "title": "Detalles del Proyecto",
+    "galleryTitle": "Galería de Actividades",
+    "uramba-cimarron": {
+      "title": "Uramba Cimarrón",
+      "content": "Uramba Cimarrón es una iniciativa central de nuestra asociación orientada a fortalecer el tejido social y la solidaridad comunitaria. A través del trabajo colectivo (Uramba), buscamos empoderar a las comunidades afrodescendientes del Putumayo, promoviendo la organización comunitaria, el rescate de nuestras tradiciones ancestrales y la construcción de un futuro más equitativo y digno para todos. Este proyecto involucra talleres de liderazgo, encuentros culturales y jornadas de trabajo solidario."
+    },
+    "etnodesarrollo-afroputumayo": {
+      "title": "Etnodesarrollo Afroputumayo",
+      "content": "Este proyecto se enfoca en impulsar procesos de etnodesarrollo que fortalezcan la autonomía económica y la identidad territorial de nuestras comunidades. Implementamos estrategias que respetan nuestra cosmovisión y el entorno natural del Amazonas, fomentando prácticas agrícolas sostenibles, emprendimientos locales y la defensa de nuestros derechos territoriales. Es un paso vital hacia el auto-sostenimiento y la dignidad colectiva."
+    },
+    "talento-afro-innovador": {
+      "title": "Talento Afro Innovador",
+      "content": "Con Talento Afro Innovador, abrimos puertas para las nuevas generaciones afroputumayenses. Este programa de formación integral ofrece herramientas en liderazgo, tecnología, emprendimiento y artes. Nuestro objetivo es que los jóvenes encuentren espacios seguros para desarrollar su potencial, conectarse con sus raíces y convertirse en los futuros líderes y agentes de cambio dentro y fuera de sus comunidades."
+    },
+    "guardianes-rios": {
+      "title": "Guardianes de los Ríos Amazónicos",
+      "content": "El agua es vida y memoria. Guardianes de los Ríos Amazónicos es un proyecto dedicado al cuidado del territorio, la protección de nuestros ríos y la preservación de los saberes ambientales ancestrales. Organizamos jornadas de limpieza, educación ambiental y monitoreo de las fuentes hídricas del Putumayo, trabajando de la mano con las comunidades locales para garantizar un ecosistema saludable para el futuro."
+    },
+    "formacion-derechos": {
+      "title": "Formación en Derechos y Liderazgo",
+      "content": "Creemos firmemente que la educación es la base de la libertad. Este proyecto desarrolla procesos pedagógicos continuos para fortalecer la ciudadanía activa, la equidad de género y la participación política de la población afrodescendiente. A través de seminarios y diplomados comunitarios, empoderamos a líderes y lideresas para que defiendan sus derechos humanos, territoriales y culturales con conocimiento y convicción."
+    },
+    "aulas-casa-cultura-2012": {
+      "title": "Aulas Casa de la Cultura 2012",
+      "content": "<p><strong>Proyecto:</strong> Construcción de dos aulas de la Casa de la Cultura Afroputumayense</p><p><strong>Financiado por:</strong> la Asociación de Cónyuges de los Diplomáticos Acreditados en Colombia.</p><br/><p><strong>Objetivo</strong><br/>Fortalecer los procesos organizativos, culturales, educativos y comunitarios de la población afrodescendiente del departamento del Putumayo mediante la construcción y adecuación de dos aulas en la Casa de la Cultura Afroputumayense, destinadas al desarrollo de actividades de formación, capacitación, encuentros comunitarios, promoción de la identidad cultural y fortalecimiento de los derechos de las comunidades negras y afroputumayenses.</p><br/><p><strong>Población Impactada</strong><br/>El proyecto ha beneficiado de manera directa e indirecta a más de 2.500 personas pertenecientes a comunidades afrodescendientes del departamento del Putumayo, incluyendo niños, niñas, jóvenes, adultos, líderes comunitarios, mujeres, organizaciones sociales y gestores culturales. Asimismo, el espacio ha servido como punto de encuentro para instituciones y actores comunitarios interesados en la promoción de la cultura afrocolombiana y la participación ciudadana.</p><br/><p><strong>Resultados Alcanzados</strong><br/>La construcción de las dos aulas permitió consolidar un espacio físico adecuado para el desarrollo de procesos educativos, culturales y organizativos, contribuyendo significativamente al fortalecimiento institucional de la Casa de la Cultura Afroputumayense. Como resultado, las comunidades beneficiarias cuentan con mejores condiciones para la realización de capacitaciones, talleres, encuentros de saberes y actividades de promoción de la identidad étnica y cultural.<br/><br/>De igual manera, se logró fortalecer las capacidades de liderazgo y gestión comunitaria de la población afrodescendiente, generando una comunidad más capacitada y empoderada en temas relacionados con los derechos de las comunidades negras, la participación ciudadana, la preservación de las tradiciones culturales y la construcción de procesos de desarrollo con enfoque étnico y territorial. Estos espacios continúan aportando a la cohesión social, la transmisión de conocimientos ancestrales y el fortalecimiento de la identidad Afroputumayense.</p>"
+    },
+    "adecuacion-casa-cultura-2019": {
+      "title": "Adecuación Casa de la Cultura 2019",
+      "content": "<p><strong>Proyecto:</strong> Adecuación de la Casa de la Cultura Afroputumayense</p><p><strong>Entidad cooperante:</strong> CISP</p><br/><p><strong>Objetivo</strong><br/>Adecuar y fortalecer la infraestructura de la Casa de la Cultura Afroputumayense como un espacio comunitario seguro, inclusivo y funcional para el desarrollo de actividades culturales, artísticas, educativas y de integración social. Este proyecto buscó promover el reconocimiento y la valoración de la diversidad cultural del territorio, garantizando condiciones adecuadas para la realización de encuentros, procesos formativos, expresiones artísticas y eventos comunitarios que contribuyan al fortalecimiento del tejido social y la identidad cultural de las diferentes comunidades.</p><br/><p><strong>Población Impactada</strong><br/>El proyecto benefició de manera directa e indirecta a personas pertenecientes a las comunidades negras, afrodescendientes, indígenas, campesinas y demás grupos poblacionales del departamento del Putumayo. Asimismo, impactó a niños, niñas, jóvenes, adultos y adultos mayores que participan en procesos culturales, educativos y comunitarios, convirtiendo la Casa de la Cultura en un espacio de encuentro intercultural y de participación ciudadana.</p><br/><p><strong>Resultados</strong><br/>Como resultado de la adecuación de la Casa de la Cultura Afroputumayense, se logró mejorar significativamente las condiciones de seguridad y funcionalidad del espacio, brindando a la comunidad un lugar más adecuado para el desarrollo de actividades culturales y sociales. La intervención permitió fortalecer los procesos de participación comunitaria, fomentar la libertad de expresión y el diálogo intercultural, así como mejorar la presentación y exposición de muestras artísticas, culturales y patrimoniales. De igual manera, el proyecto contribuyó a la preservación y promoción de las manifestaciones culturales de los diferentes grupos étnicos y sociales del territorio, consolidando este escenario como un referente para la integración, el aprendizaje y la convivencia comunitaria.</p>"
+    },
+    "trabajo-cultural-continuo": {
+      "title": "Trabajo Cultural Continuo",
+      "content": "<p>Constituye una herramienta fundamental para la preservación, fortalecimiento y transmisión de la identidad de las comunidades Afroputumayenses. A través de las diferentes expresiones culturales, artísticas, espirituales y organizativas, se mantienen vivas las tradiciones, saberes ancestrales, costumbres, prácticas comunitarias y formas de relacionamiento que han sido heredadas de generación en generación.</p><br/><p>De acuerdo con los principios de reconocimiento, respeto por la diversidad étnica y cultural, autonomía, participación comunitaria y fortalecimiento de la identidad colectiva, el trabajo cultural permanente permite que las y los niños, jóvenes, adultos y mayores conozcan, valoren y se apropien de nuestra historia, y de los aportes que las comunidades afroputumayenses han realizado al desarrollo social, cultural, ambiental y económico del país.</p><br/><p>Asimismo, el desarrollo continuo de procesos culturales contribuye a la protección del patrimonio material e inmaterial, fortalece el tejido social y promueve espacios de encuentro, diálogo y convivencia entre las diferentes generaciones. Estas acciones favorecen la construcción de una ciudadanía consciente de sus derechos colectivos, fortaleciendo el liderazgo comunitario y la participación activa en los escenarios de toma de decisiones.</p><br/><p>El trabajo cultural también representa una estrategia de resistencia frente a las dinámicas de discriminación racial, exclusión social y pérdida de la memoria histórica. Por medio de actividades como la música tradicional, la danza, la espiritualidad, la oralidad, la gastronomía, las prácticas ancestrales, los encuentros comunitarios y los procesos de formación, se reafirma el sentido de pertenencia y se promueve el reconocimiento de la riqueza cultural afrocolombiana.</p>"
+    }
+  },
+  "ProjectProposalModal": {
+    "title": "Proponer un Proyecto",
+    "description": "Cuéntanos tu idea o iniciativa. Estamos listos para escuchar y articular esfuerzos.",
+    "nameLabel": "Nombre completo",
+    "emailLabel": "Correo electrónico",
+    "orgLabel": "Organización / Entidad (Opcional)",
+    "projectTitleLabel": "Título de la Propuesta",
+    "projectDescLabel": "Descripción breve de la idea",
+    "submitBtn": "Enviar Propuesta",
+    "successMsg": "¡Gracias! Hemos recibido tu propuesta. Nos pondremos en contacto pronto."
+  },
+  "ProjectsHistory": {
+    "titleLine1": "Historial de",
+    "titleLine2": "Procesos ejecutados",
+    "desc": "Un recorrido por las acciones y procesos que han fortalecido nuestra comunidad, nuestra cultura y nuestro camino organizativo.",
+    "rows": {
+      "1": {
+        "col1": "Asociación de cónyuges de los diplomáticos:",
+        "col2": "2 aulas de la Casa de la Cultura Afroputumayense.",
+        "col3": "Ejecutado exitosamente",
+        "col4": "2012"
+      },
+      "2": {
+        "col1": "CISP (Italia)",
+        "col2": "Adecuación de la Casa de la Cultura Afro Cimarrón Putumayo.",
+        "col3": "Ejecutado Exitosamente",
+        "col4": "2019"
+      },
+      "3": {
+        "col1": "Trabajo cultural continuo",
+        "col2": "Casa de Cultura Afroputumayense \"Librada Maturana\":",
+        "col3": "Ejecución Permanente",
+        "col4": "Permanente"
+      }
+    }
+  }
+}

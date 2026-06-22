@@ -1,0 +1,625 @@
+{
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "casaAfro": "Maison Afro",
+    "projects": "Projets",
+    "stories": "Histoires",
+    "calls": "Appels",
+    "donations": "Dons",
+    "contact": "Contact",
+    "donateNow": "Faire un Don"
+  },
+  "Footer": {
+    "quickLinks": "Liens Rapides",
+    "community": "Communauté",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales"
+  },
+  "Hero": {
+    "brand": "CIMARRON PUTUMAYO",
+    "word1": "HÉRITAGE",
+    "word2": "VIVANT",
+    "line1": "DU PEUPLE",
+    "line2": "AFRO-PUTUMAYO",
+    "description": "Nous défendons la vie, renforçons l'identité et ouvrons des voies de dignité, de mémoire et d'avenir pour les communautés afro du Putumayo.",
+    "projectsBtn": "DÉCOUVREZ NOS PROJETS",
+    "supportBtn": "SOUTENEZ NOTRE CAUSE"
+  },
+  "Stories": {
+    "Hero": {
+      "title": "Histoires"
+    },
+    "Featured": {
+      "title": "Librada Maturana; l'héritage d'une femme marronne qui a lutté pour l'égalité, l'équité et le territoire.",
+      "excerpt": "Parler de Librada Maturana, c'est parler de mémoire vivante, de résistance, de dignité et d'amour profond pour le peuple afro du Putumayo. Son héritage ne se mesure pas seulement en années de lutte...",
+      "readMore": "VOIR PLUS",
+      "photoPlaceholder": "[Photographie de Librada Maturana]"
+    },
+    "Infographic": {
+      "title": "Marronnage et Résistance",
+      "subtitle": "De Palenque au Putumayo. Une chronologie de la présence afro dans la région.",
+      "imageAlt": "Infographie: Marronnage et Résistance"
+    },
+    "Grid": {
+      "by": "par",
+      "stories": {
+        "1": {
+          "title": "Ruby Maturana, héritière d'une histoire qui continue de transformer des vies",
+          "excerpt": "Ruby Maturana incarne la force d'un héritage qui ne s'est pas arrêté, mais a fleuri...",
+          "author": "Nouveau Leadership",
+          "date": "Octobre 2024",
+          "categories": {
+            "0": "Leadership",
+            "1": "Héritage"
+          }
+        },
+        "2": {
+          "title": "La jungle du Putumayo est notre subsistance",
+          "excerpt": "Pour les communautés afro-marronnes du Putumayo, la jungle n'est pas un paysage lointain...",
+          "author": "Territoire",
+          "date": "Septembre 2024",
+          "categories": {
+            "0": "Environnement",
+            "1": "Savoirs"
+          }
+        },
+        "3": {
+          "title": "Uramba Cimarrón: Le travail collectif qui soutient la mémoire",
+          "excerpt": "À Cimarrón Putumayo, le mot Uramba ne nomme pas seulement une activité communautaire...",
+          "author": "Communauté",
+          "date": "Août 2024",
+          "categories": {
+            "0": "Communauté",
+            "1": "Culture"
+          }
+        }
+      }
+    }
+  },
+  "DonateModal": {
+    "leftTitle1": "Semez",
+    "leftTitle2": "la dignité",
+    "leftDesc": "Votre contribution internationale finance l'éducation, la culture et la défense des droits de l'homme dans les communautés afro du Putumayo.",
+    "rightTitle": "Faites votre don",
+    "rightDesc": "Sélectionnez la fréquence et le montant de votre contribution.",
+    "freqLabel": "1. Fréquence",
+    "freqOnce": "Une seule fois",
+    "freqMonthly": "Mensuel",
+    "amountLabel": "2. Montant (USD)",
+    "customAmountPlaceholder": "Entrez un autre montant",
+    "donateBtn": "Faire un don",
+    "donateMonthlySuffix": "par mois",
+    "secureTransaction": "Transaction sécurisée. Vous pouvez annuler votre don mensuel à tout moment."
+  },
+  "Terms": {
+    "title": "Conditions Générales d'Utilisation",
+    "subtitle": "Association Départementale pour les Droits de l'Homme des Conseils Communautaires, Organisations de Base et autres formes Cimarrón Putumayo",
+    "sections": [
+      {
+        "title": "1. Acceptation des Conditions",
+        "content": "En accédant et en utilisant le site web de Cimarrón Putumayo (ci-après, 'le Site'), vous acceptez d'être lié par ces Conditions Générales. Si vous n'êtes pas d'accord avec une partie de ces conditions, vous ne devez pas utiliser notre site."
+      },
+      {
+        "title": "2. Propriété Intellectuelle",
+        "content": "Tout le contenu présent sur le Site, y compris mais sans s'y limiter les textes, photographies, graphiques, logos, icônes, fichiers audio, vidéos et logiciels, est la propriété exclusive de Cimarrón Putumayo ou de ses auteurs communautaires respectifs, et est protégé par les lois colombiennes sur la propriété intellectuelle et les traités internationaux. Sa reproduction, distribution ou modification sans autorisation écrite préalable est strictement interdite."
+      },
+      {
+        "title": "3. Utilisation Acceptable du Site",
+        "content": "Vous acceptez d'utiliser le Site uniquement à des fins légales et d'une manière qui n'enfreint pas les droits de, ne restreint ni n'inhibe l'utilisation et la jouissance du Site par quiconque. L'utilisation du site pour envoyer du courrier non sollicité (spam), transmettre des virus, ou publier des contenus offensants ou diffamatoires est interdite."
+      },
+      {
+        "title": "4. Politique de Dons",
+        "content": "Les dons effectués via notre Site sont des contributions volontaires destinées à soutenir la mission et les projets de Cimarrón Putumayo. Une fois le don traité, aucun remboursement ne sera effectué, sauf cas exceptionnel d'erreur technique vérifiable de la plateforme de paiement. En faisant un don, vous déclarez que les fonds proviennent de sources légales."
+      },
+      {
+        "title": "5. Liens vers des Tiers",
+        "content": "Le Site peut contenir des liens vers des sites web de tiers. Cimarrón Putumayo n'a aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques de ces sites, et n'assume aucune responsabilité à leur égard."
+      },
+      {
+        "title": "6. Modifications",
+        "content": "Cimarrón Putumayo se réserve le droit de modifier ces Conditions Générales à tout moment. Les modifications prendront effet immédiatement après leur publication sur le Site. Votre utilisation continue du Site après toute modification constitue votre acceptation des nouvelles Conditions."
+      },
+      {
+        "title": "7. Loi Applicable",
+        "content": "Ces Conditions Générales sont régies par les lois de la République de Colombie. Tout litige lié à l'utilisation de ce Site sera soumis à la compétence exclusive des tribunaux compétents en Colombie."
+      }
+    ]
+  },
+  "Privacy": {
+    "titleHtml": "Politique de Confidentialité<br />des Données",
+    "subtitle1": "Association Départementale pour les Droits de l'Homme des Conseils Communautaires, Organisations de Base et autres formes",
+    "subtitle2": "Cimarrón Putumayo",
+    "sections": [
+      {
+        "title": "1. Généralités",
+        "content": "L'Association... adopte la présente Politique pour garantir la protection, la confidentialité et le traitement adéquat des données personnelles..."
+      },
+      {
+        "title": "2. Responsable du traitement",
+        "list": [
+          "<strong>Entité:</strong> Asociación Departamental por los Derechos Humanos de Consejos Comunitarios, Organizaciones de Base y demás formas CIMARRÓN PUTUMAYO",
+          "<strong>NIT:</strong> 846003787-0",
+          "<strong>Représentant légal:</strong> CORTES CORTES MARLENY",
+          "<strong>Adresse:</strong> Carrera 21 # 31-90, Barrio El Jardín, Puerto Asís - Putumayo",
+          "<strong>E-mail:</strong> putumayocimarron@gmail.com",
+          "<strong>Téléphone de contact:</strong> 3113590790"
+        ]
+      },
+      {
+        "title": "3. Données collectées",
+        "content": "L'entité collecte et stocke les informations personnelles nécessaires à ses opérations :",
+        "list": [
+          "Noms et prénoms",
+          "Type et numéro d'identification",
+          "Coordonnées : adresse, commune, téléphone, e-mail",
+          "Photographies et matériel audiovisuel lors d'activités",
+          "Informations académiques, professionnelles ou de participation sociale",
+          "Données bancaires ou financières pour les paiements contractuels",
+          "Données sensibles (origine ethnique, communauté, santé, informations biométriques), uniquement lorsque cela est strictement requis pour des projets spécifiques et avec autorisation expresse."
+        ]
+      },
+      {
+        "title": "4. Finalités du traitement",
+        "content": "Les données personnelles seront utilisées pour :",
+        "list": [
+          "Inscription des associés, représentants, membres, bénévoles et bénéficiaires.",
+          "Exécution de projets sociaux, humanitaires, de défense des droits humains, environnementaux, culturels, académiques ou communautaires.",
+          "Contact pour appels, ateliers, événements, campagnes et processus de formation.",
+          "Gestion des entrepreneurs, fournisseurs et alliés.",
+          "Sécurité, contrôle des présences et preuves d'activités.",
+          "Rapports aux entités publiques, privées, financières et de coopération internationale.",
+          "Gestion comptable, sociale, fiscale et contractuelle.",
+          "Envoi d'informations institutionnelles, éducatives et de communications officielles."
+        ],
+        "extraContent": "Les informations ne seront ni vendues ni remises à des tiers sans autorisation."
+      },
+      {
+        "title": "5. Droits du titulaire",
+        "content": "Tout titulaire peut :",
+        "list": [
+          "Consulter ses données.",
+          "Demander la mise à jour, la correction ou la suppression.",
+          "Révoquer l'autorisation.",
+          "Déposer des plaintes."
+        ]
+      },
+      {
+        "title": "6. Traitement des demandes",
+        "content": "Le titulaire peut exercer ses droits via :",
+        "list": [
+          "E-mail : putumayocimarron@gmail.com",
+          "Adresse : Carrera 21 # 31-90, Puerto Asís",
+          "Téléphone : 3113590790"
+        ]
+      },
+      {
+        "title": "7. Données des mineurs",
+        "content": "L'Association ne traitera les données des mineurs qu'avec l'autorisation du représentant légal et dans leur intérêt."
+      },
+      {
+        "title": "8. Sécurité et confidentialité",
+        "content": "L'Association mettra en œuvre des mesures pour :",
+        "list": [
+          "Protéger les informations.",
+          "Empêcher l'accès non autorisé.",
+          "Garantir la conservation sûre."
+        ]
+      },
+      {
+        "title": "9. Transfert de données",
+        "content": "Les informations peuvent être fournies à :",
+        "list": [
+          "Entités publiques.",
+          "Organisations alliées.",
+          "Entités de contrôle."
+        ]
+      },
+      {
+        "title": "10. Validité",
+        "content": "Cette politique reste en vigueur tant que :",
+        "list": [
+          "Une relation est maintenue.",
+          "Des obligations légales existent."
+        ]
+      }
+    ]
+  },
+  "ProjectsGrid": {
+    "title": "Nos Projets sur le Territoire",
+    "btn": "En Savoir Plus",
+    "items": {
+      "1": {
+        "title": "URAMBA CIMARRÓN",
+        "text": "Travail collectif, solidarité et organisation."
+      },
+      "2": {
+        "title": "ETHNODÉVELOPPEMENT",
+        "text": "Processus pour renforcer l'autonomie et l'identité."
+      },
+      "3": {
+        "title": "TALENT AFRO INNOVANT",
+        "text": "Formation, leadership et opportunités pour les jeunes."
+      },
+      "4": {
+        "title": "FORMATION EN DROITS",
+        "text": "Processus pédagogiques pour renforcer la citoyenneté."
+      },
+      "5": {
+        "title": "MAISON AFRO LIBRADA MATURANA",
+        "text": "Espace de résistance, de rencontre et de célébration."
+      },
+      "6": {
+        "title": "GARDIENS DES FLEUVES",
+        "text": "Soin du territoire, de la nature et des savoirs environnementaux."
+      }
+    }
+  },
+  "AboutSection": {
+    "title": "Nous sommes racines.<br />Nous sommes mémoire.<br />Nous sommes Putumayo.",
+    "p": "L'Association Cimarrón Putumayo est née du travail collectif, de la défense des droits, de la culture afro-descendante et de l'amour du territoire. Notre travail relie les générations, protège les savoirs ancestraux et renforce les processus communautaires qui construisent la dignité."
+  },
+  "PillarsSection": {
+    "title": "Nos Piliers",
+    "items": {
+      "1": {
+        "title": "Culture et Identité",
+        "text": "Nous sauvons la musique, la danse, la gastronomie, les coiffures, l'oralité et le savoir des peuples afro-putumayens."
+      },
+      "2": {
+        "title": "Territoire et Nature",
+        "text": "Nous reconnaissons la jungle, le fleuve et la terre comme subsistance, mémoire, médecine et école de vie pour nos communautés."
+      },
+      "3": {
+        "title": "Droits et Communauté",
+        "text": "Nous promouvons le leadership, la participation, les opportunités pour les femmes et les jeunes, l'autonomie économique et la défense de la dignité."
+      }
+    }
+  },
+  "ProjectsSection": {
+    "title": "Des projets qui sèment la dignité",
+    "btnAll": "Voir Tous<br/>Les Projets",
+    "items": {
+      "1": {
+        "title": "URAMBA CIMARRÓN",
+        "text": "Travail collectif, solidarité et organisation communautaire."
+      },
+      "2": {
+        "title": "ETHNODÉVELOPPEMENT AFROPUTUMAYO",
+        "text": "Processus pour renforcer l'autonomie, l'identité et le développement territorial."
+      },
+      "3": {
+        "title": "TALENT AFRO INNOVANT",
+        "text": "Formation, leadership et opportunités pour les jeunes Afro-Putumayens."
+      },
+      "4": {
+        "title": "GARDIENS DES FLEUVES AMAZONIENS",
+        "text": "Soin du territoire, de la nature et des savoirs environnementaux."
+      },
+      "5": {
+        "title": "FORMATION EN DROITS ET LEADERSHIP",
+        "text": "Processus pédagogiques pour renforcer la citoyenneté, l'équité et la participation."
+      }
+    }
+  },
+  "CasaAfroSection": {
+    "subtitle": "Notre Siège",
+    "title": "Maison Afro-Putumayenne<br />Librada Maturana",
+    "p1": "Située à Puerto Asís, la Maison Afro est le cœur de notre association. Un espace de rencontre, de résistance, de culture et de fraternité pour toutes les communautés noires du Putumayo.",
+    "p2": "Ici, nous organisons des ateliers, des répétitions musicales, des formations et des assemblées. C'est notre maison, où les racines deviennent fortes et l'identité est célébrée chaque jour.",
+    "btn": "Découvrir La Maison"
+  },
+  "FeaturedStorySection": {
+    "badge": "Histoire à la Une",
+    "title": "Femmes tisseuses de mémoire sur le fleuve Putumayo",
+    "p": "À travers le tissage et la médecine traditionnelle, un groupe de femmes leaders sur les rives du Putumayo guérissent les blessures du conflit et transmettent leur savoir ancestral aux nouvelles générations, démontrant que la résistance se tisse aussi à la main.",
+    "btn": "Lire l'Histoire Complète"
+  },
+  "DonationSection": {
+    "subtitle": "Rejoignez la Cause",
+    "title": "Votre contribution construit<br />l'autonomie et la dignité",
+    "p1": "Cimarrón Putumayo est soutenu par le travail bénévole et la solidarité. Avec votre don, vous soutenez directement la formation des jeunes, la protection des aînés, le sauvetage culturel et les projets productifs de nos communautés.",
+    "p2": "Ensemble, nous pouvons renforcer l'héritage afro en Amazonie.",
+    "btn": "Faire un Don"
+  },
+  "NewsletterSection": {
+    "title": "Restez connecté avec nos racines",
+    "p": "Rejoignez notre newsletter pour recevoir des histoires, des nouvelles sur nos projets, des appels et des mises à jour de Cimarrón Putumayo directement dans votre boîte de réception.",
+    "inputPlaceholder": "Votre adresse e-mail",
+    "btn": "S'abonner",
+    "btnLoading": "Envoi...",
+    "btnSuccess": "Abonné !",
+    "msgSuccess": "Merci ! Vous vous êtes abonné avec succès."
+  },
+  "AboutHero": {
+    "title": "Qui Nous Sommes",
+    "subtitle": "Racines, mémoire et objectif afro-putumayen"
+  },
+  "BaseInstitucionalSection": {
+    "subtitle": "Qui sommes-nous légalement",
+    "title": "Base Institutionnelle",
+    "p1": "L'Association Départementale pour les Droits de l'Homme des Conseils Communautaires, Organisations de Base et autres formes CIMARRON PUTUMAYO, identifiée par le NIT. 846003787-0, est une Entité à But Non Lucratif (ESAL) du Régime Fiscal Spécial.",
+    "items": {
+      "1": {
+        "title": "Statut Juridique",
+        "text": "Enregistrée à la Chambre de Commerce avec le numéro d'immatriculation S0501868."
+      },
+      "2": {
+        "title": "Registre Unique",
+        "text": "Inscrite au Registre Unique des Communautés Noires du Ministère de l'Intérieur."
+      },
+      "3": {
+        "title": "Registre DIAN",
+        "text": "Mise à jour annuelle dans le Registre Web de la DIAN en tant qu'ESAL."
+      },
+      "4": {
+        "title": "Certification du Ministère",
+        "text": "Certifiée par la Direction des Affaires pour les Communautés Noires, Afro-colombiennes, Raizales et Palenqueras."
+      }
+    }
+  },
+  "DefendemosSection": {
+    "title": "Que défendons-nous ?",
+    "p": "Nous défendons le droit à la vie, au territoire, à l'identité culturelle et au développement équitable. Nous travaillons pour une paix durable où les communautés afro-descendantes sont les protagonistes de leur propre histoire en Amazonie.",
+    "btn": "Découvrir Nos Projets"
+  },
+  "EsenciaSection": {
+    "subtitle": "Ce qui nous définit",
+    "title": "Notre Essence",
+    "items": {
+      "1": {
+        "title": "Résistance",
+        "text": "Nous restons fermes dans la défense de nos droits et de notre territoire, surmontant les obstacles avec la force de nos ancêtres."
+      },
+      "2": {
+        "title": "Fraternité",
+        "text": "Nous construisons un tissu social basé sur le respect, le soutien mutuel et le travail communautaire (Uramba)."
+      },
+      "3": {
+        "title": "Identité",
+        "text": "Nous célébrons et préservons nos racines africaines à travers l'art, la tradition orale, l'esthétique et la spiritualité."
+      },
+      "4": {
+        "title": "Leadership",
+        "text": "Nous formons de nouvelles générations avec une capacité critique et proactive pour transformer notre réalité."
+      }
+    }
+  },
+  "HistoriaSection": {
+    "title": "Notre Histoire",
+    "p1": "Cimarrón Putumayo est né du désir des communautés noires de s'organiser, d'être reconnues et de défendre leurs droits...",
+    "p2": "Depuis nos débuts, nous avons travaillé sans relâche pour rendre visible la contribution afro-descendante...",
+    "p3": "Au fil des ans, nous avons mené des processus de formation, de sauvetage culturel et d'exigibilité des droits..."
+  },
+  "LineasAccionSection": {
+    "title": "Nos Lignes d'Action",
+    "items": {
+      "1": {
+        "title": "DROITS DE L'HOMME, PAIX ET PROTECTION DU TERRITOIRE",
+        "desc": "Nous défendons les droits fondamentaux, la vie et le territoire."
+      },
+      "2": {
+        "title": "ETHNOÉDUCATION, ART, CULTURE ET IDENTITÉ AFRO",
+        "desc": "Nous sauvons, préservons et diffusons notre patrimoine culturel."
+      },
+      "3": {
+        "title": "FEMMES, GENRE ET VIES SANS VIOLENCE",
+        "desc": "Nous promouvons le leadership des femmes et travaillons pour l'équité de genre."
+      },
+      "4": {
+        "title": "JEUNESSE, FORMATION ET RENOUVELLEMENT GÉNÉRATIONNEL",
+        "desc": "Nous accompagnons les enfants et les jeunes dans leur formation."
+      },
+      "5": {
+        "title": "ÉCOLE DE LEADERSHIP ET RECONNAISSANCE ANCESTRALE",
+        "desc": "Nous formons des leaders avec éthique, identité et engagement."
+      },
+      "6": {
+        "title": "ENTREPRENEURIAT ET DURABILITÉ ÉCONOMIQUE",
+        "desc": "Nous promouvons des initiatives économiques pour renforcer l'autonomie."
+      },
+      "7": {
+        "title": "PAIX, RÉCONCILIATION ET TISSU SOCIAL",
+        "desc": "Nous construisons la coexistence et la réconciliation pour le bien-être."
+      }
+    }
+  },
+  "MisionVisionSection": {
+    "misionTitle": "Notre Mission",
+    "misionText": "Nous sommes une organisation engagée à maintenir vivante la mémoire ancestrale...",
+    "visionTitle": "Notre Vision",
+    "visionText": "Être une organisation afro-putumayenne de référence..."
+  },
+  "UneteCausaSection": {
+    "title": "Rejoignez Notre Cause",
+    "subtitle": "Votre soutien renforce nos communautés<br class=\"hidden sm:block\" /> et construit un avenir dans la dignité.",
+    "btn": "Faire un Don",
+    "info": "Chaque contribution est une graine d'espoir."
+  },
+  "ProjectsHero": {
+    "title": "Des projets qui<br />sèment la dignité",
+    "p1": "À Cimarrón Putumayo, nous menons des projets qui renforcent l'identité culturelle...",
+    "p2": "Chaque projet naît de l'écoute, de la mémoire vivante de nos aînés..."
+  },
+  "ProjectsCTA": {
+    "title": "Travaillons et<br />créons des projets<br />communautaires",
+    "p": "Le développement de nos territoires dépend de l'action collective...",
+    "btn": "Je veux proposer un projet"
+  },
+  "ProjectsDirection": {
+    "title": "Direction de projets",
+    "p": "Nos projets sont menés selon les principes de transparence, de participation communautaire..."
+  },
+  "StoriesHero": {
+    "title": "Histoire et<br />Mémoire"
+  },
+  "StoriesInfographic": {
+    "subtitle": "Chronologie",
+    "title": "La Route de la Résistance",
+    "imageAlt": "Infographie de l'histoire afro"
+  },
+  "FeaturedStory": {
+    "title": "L'héritage des chanteuses dans le Bas Putumayo",
+    "excerpt": "Les voix de nos aînées résonnent le long du fleuve...",
+    "readMore": "Lire l'histoire complète",
+    "photoPlaceholder": "Photographie des chanteuses"
+  },
+  "StoriesGrid": {
+    "by": "Par",
+    "stories": {
+      "1": {
+        "title": "Gardiens de la jungle",
+        "excerpt": "Un voyage à travers les jardins traditionnels.",
+        "author": "Comité de Communication",
+        "date": "12 Juin 2026",
+        "categories": [
+          "Territoire",
+          "Savoirs"
+        ]
+      },
+      "2": {
+        "title": "Uramba : Le travail collectif",
+        "excerpt": "L'histoire de la construction de la Maison Afro.",
+        "author": "Association Cimarrón",
+        "date": "05 Mai 2026",
+        "categories": [
+          "Communauté",
+          "Leadership"
+        ]
+      },
+      "3": {
+        "title": "Jeunesse afro-putumayenne",
+        "excerpt": "Les jeunes utilisent l'art urbain et les médias numériques.",
+        "author": "Réseau des Jeunes",
+        "date": "28 Avril 2026",
+        "categories": [
+          "Culture",
+          "Jeunesse"
+        ]
+      }
+    }
+  },
+  "DonationsHero": {
+    "title": "Faites un don au présent<br />et à l'avenir<br />afro-putumayen",
+    "p1": "Chaque contribution aide à renforcer l'identité culturelle...",
+    "p2": "Chez Cimarrón Putumayo, nous travaillons pour le renforcement de l'identité afro..."
+  },
+  "DonationsCorporate": {
+    "title": "Responsabilité<br />Sociale des Entreprises",
+    "p": "Nous invitons les entreprises, les fondations et les marques à soutenir les processus d'éducation...",
+    "btn": "Rejoignez Votre Entreprise"
+  },
+  "DonationsMicro": {
+    "title": "Microdons"
+  },
+  "ContactForm": {
+    "successTitle": "Message Envoyé!",
+    "successText": "Merci de nous avoir écrit. Nous vous contacterons bientôt.",
+    "btnAnother": "Envoyer un autre message",
+    "title": "Envoyez-nous un message",
+    "nameLabel": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "emailLabel": "Email",
+    "emailPlaceholder": "vous@email.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Comment pouvons-nous vous aider?",
+    "btnSending": "Envoi en cours...",
+    "btnSend": "Envoyer le Message",
+    "errName": "Le nom doit comporter au moins 2 caractères",
+    "errEmail": "Email invalide",
+    "errMessage": "Le message doit comporter au moins 10 caractères"
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "subtitle": "Nous sommes là pour vous écouter. Si vous souhaitez rejoindre notre cause, avez des questions ou des propositions, n'hésitez pas à nous écrire.",
+    "infoTitle": "Coordonnées",
+    "addressTitle": "Adresse",
+    "address1": "Carrera 21 No. 31 - 90",
+    "address2": "Casa de Cultura Afroputumayense Librada Maturana",
+    "address3": "Puerto Asís - Putumayo",
+    "phoneTitle": "Téléphone",
+    "emailTitle": "E-mail"
+  },
+  "CasaAfroPage": {
+    "title1": "Maison de la Culture Afroputumayense",
+    "subtitle1": "Librada Maturana",
+    "desc1": "Un espace vital pour la mémoire, les rencontres et la construction communautaire au cœur du Putumayo.",
+    "title2": "Notre Foyer Communautaire",
+    "desc2_1": "La Casa Afro est plus qu'une structure physique ; c'est le cœur battant de notre organisation. C'est ici que nos traditions s'entremêlent, que l'avenir se planifie et que la vie est célébrée.",
+    "desc2_2": "Dans cet espace, nous organisons des ateliers, des réunions communautaires, des répétitions musicales et des activités de préservation culturelle."
+  },
+  "ProjectDetails": {
+    "title": "Détails du projet",
+    "galleryTitle": "Galerie d'activités",
+    "uramba-cimarron": {
+      "title": "Uramba Cimarrón",
+      "content": "Uramba Cimarrón est une initiative centrale de notre association visant à renforcer le tissu social et la solidarité communautaire. Par le travail collectif (Uramba), nous cherchons à autonomiser les communautés afro-descendantes du Putumayo."
+    },
+    "etnodesarrollo-afroputumayo": {
+      "title": "Ethnodéveloppement Afroputumayo",
+      "content": "Ce projet se concentre sur la promotion des processus d'ethnodéveloppement qui renforcent l'autonomie économique et l'identité territoriale de nos communautés."
+    },
+    "talento-afro-innovador": {
+      "title": "Talent Afro Innovant",
+      "content": "Avec Talent Afro Innovant, nous ouvrons des portes aux nouvelles générations afro-putumayennes grâce à un programme de formation complet."
+    },
+    "guardianes-rios": {
+      "title": "Gardiens des rivières d'Amazonie",
+      "content": "L'eau est la vie et la mémoire. Gardiens des rivières d'Amazonie est un projet dédié au soin du territoire et à la protection de nos rivières."
+    },
+    "formacion-derechos": {
+      "title": "Formation aux droits et au leadership",
+      "content": "Nous croyons fermement que l'éducation est le fondement de la liberté. Ce projet développe des processus pédagogiques pour renforcer la citoyenneté active."
+    },
+    "aulas-casa-cultura-2012": {
+      "title": "Salles de classe Maison de la Culture 2012",
+      "content": "<p><strong>Projet:</strong> Construction de deux salles de classe de la Maison de la Culture Afro-putumayenne</p><p><strong>Financé par:</strong> Association des Conjoints des Diplomates Accrédités en Colombie.</p><br/><p><strong>Objectif</strong><br/>Renforcer les processus organisationnels, culturels, éducatifs et communautaires de la population afro-descendante du département de Putumayo.</p><br/><p><strong>Population Impactée</strong><br/>Le projet a bénéficié directement et indirectement à plus de 2 500 personnes appartenant aux communautés afro-descendantes.</p><br/><p><strong>Résultats Atteints</strong><br/>La construction des deux salles de classe a permis de consolider un espace physique adéquat.</p>"
+    },
+    "adecuacion-casa-cultura-2019": {
+      "title": "Adaptation Maison de la Culture 2019",
+      "content": "<p><strong>Projet:</strong> Adaptation de la Maison de la Culture Afro-putumayenne</p><p><strong>Entité coopérante:</strong> CISP</p><br/><p><strong>Objectif</strong><br/>Adapter et renforcer l'infrastructure de la Maison de la Culture Afro-putumayenne en tant qu'espace communautaire sûr, inclusif et fonctionnel.</p><br/><p><strong>Population Impactée</strong><br/>Le projet a bénéficié directement et indirectement aux personnes appartenant aux communautés noires, afro-descendantes, autochtones et paysannes.</p><br/><p><strong>Résultats</strong><br/>À la suite de l'adaptation de la Maison de la Culture, les conditions de sécurité et de fonctionnalité de l'espace ont été considérablement améliorées.</p>"
+    },
+    "trabajo-cultural-continuo": {
+      "title": "Travail Culturel Continu",
+      "content": "<p>Il constitue un outil fondamental pour la préservation, le renforcement et la transmission de l'identité des communautés afro-putumayennes.</p><br/><p>Conformément aux principes de reconnaissance, de respect de la diversité, d'autonomie et de participation communautaire, le travail culturel permanent permet à tous de connaître, valoriser et s'approprier notre histoire.</p><br/><p>De même, le développement continu des processus culturels contribue à la protection du patrimoine matériel et immatériel.</p><br/><p>Le travail culturel représente également une stratégie de résistance face aux dynamiques de discrimination raciale.</p>"
+    }
+  },
+  "ProjectProposalModal": {
+    "title": "Proposer un projet",
+    "description": "Parlez-nous de votre idée ou initiative. Nous sommes prêts à écouter et à unir nos efforts.",
+    "nameLabel": "Nom complet",
+    "emailLabel": "Adresse e-mail",
+    "orgLabel": "Organisation / Entité (Facultatif)",
+    "projectTitleLabel": "Titre de la proposition",
+    "projectDescLabel": "Brève description de l'idée",
+    "submitBtn": "Soumettre la proposition",
+    "successMsg": "Merci ! Nous avons reçu votre proposition. Nous vous contacterons bientôt."
+  },
+  "ProjectsHistory": {
+    "titleLine1": "Historique des",
+    "titleLine2": "Processus exécutés",
+    "desc": "Un parcours à travers les actions et processus qui ont renforcé notre communauté, notre culture et notre voie organisationnelle.",
+    "rows": {
+      "1": {
+        "col1": "Association des conjoints de diplomates:",
+        "col2": "2 salles de classe de la Maison de la Culture Afro-putumayenne.",
+        "col3": "Exécuté avec succès",
+        "col4": "2012"
+      },
+      "2": {
+        "col1": "CISP (Italie)",
+        "col2": "Adaptation de la Maison de la Culture Afro Cimarron Putumayo.",
+        "col3": "Exécuté avec succès",
+        "col4": "2019"
+      },
+      "3": {
+        "col1": "Travail culturel continu",
+        "col2": "Maison de la Culture Afro-putumayenne \"Librada Maturana\":",
+        "col3": "Exécution permanente",
+        "col4": "Permanent"
+      }
+    }
+  }
+}
