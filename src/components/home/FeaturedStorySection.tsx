@@ -12,7 +12,7 @@ export default function FeaturedStorySection() {
         {/* Left: Big Image */}
         <div className="relative w-full aspect-[4/5] md:aspect-square lg:aspect-[4/5] overflow-hidden rounded-lg shadow-2xl">
           <Image 
-            src="/images/hero/hero_bg.png" /* Reemplazar con imagen de las tejedoras */
+            src="/images/mujeres_rio.png" 
             alt="Mujeres tejedoras de memoria" 
             fill 
             className="object-cover hover:scale-105 transition-transform duration-700"

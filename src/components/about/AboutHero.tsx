@@ -8,7 +8,7 @@ export default function AboutHero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image 
-          src="/images/hero/hero_bg.png" /* Reemplazar con foto histórica/comunitaria */
+          src="/images/asamblea_cimarron.png" 
           alt="Historia Cimarrón Putumayo" 
           fill 
           className="object-cover"

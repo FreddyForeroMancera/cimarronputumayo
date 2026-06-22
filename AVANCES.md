@@ -261,3 +261,16 @@ ext-intl.
   - Se reemplazó el texto *lorem ipsum* de prueba con el texto real y detallado proporcionado por el usuario.
   - Se implementó la renderización de texto enriquecido HTML (`<strong>`, `<p>`) usando `dangerouslySetInnerHTML` junto con `t.raw()` de `next-intl` para evitar errores de parseo y mostrar correctamente párrafos y negritas.
   - Se generaron las traducciones precisas de todos los textos reales e históricos en los 5 idiomas configurados.
+
+## 22 de Junio de 2026
+
+### Actualización de Imágenes y Comportamiento UI
+- **Conexión de Nuevas Imágenes Reales:**
+  - Se reemplazaron placeholders en la sección `CasaAfroSection` con las imágenes `casa_afro_1.png` y `casa_afro_2.png`.
+  - Se actualizó el Hero de la página "Quiénes Somos" (`AboutHero.tsx`) con la imagen panorámica `asamblea_cimarron.png`.
+  - Se integraron `historia_1.png` e `historia_2.png` en la sección "Nuestra Historia" (`HistoriaSection.tsx`), manteniendo el efecto escala de grises al pasar el cursor.
+  - Se conectaron `esencia_1.png` y `esencia_2.png` en el collage de la sección "Nuestra Esencia" (`EsenciaSection.tsx`).
+  - Se actualizó la imagen panorámica (21:9) con bordes redondeados en `ProjectsLandscape.tsx` utilizando `proyectos_paisaje.jpg`.
+- **Refinamiento Funcional:**
+  - Se refactorizó `DonationSection.tsx` transformándolo en un *Client Component* (`'use client'`).
+  - El botón inferior de "DONAR AHORA" en la página principal ahora abre directamente el modal flotante (`DonateModal`) en lugar de redirigir a otra ruta, unificando la experiencia de usuario.

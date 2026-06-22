@@ -8,7 +8,7 @@ export default function ProjectsLandscape() {
         {/* The oval image container */}
         <div className="relative w-full aspect-[21/9] rounded-[200px] overflow-hidden bg-gray-200">
           <Image 
-            src="/images/hero/hero_bg.png" /* Placeholder */
+            src="/images/proyectos_paisaje.jpg"
             alt="Paisaje de los proyectos de Cimarrón Putumayo"
             fill
             className="object-cover"

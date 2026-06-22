@@ -40,7 +40,7 @@ export default function CasaAfroSection() {
           {/* Main big image */}
           <div className="absolute top-0 right-0 w-[80%] h-[80%] rounded-lg overflow-hidden border border-white/10 shadow-2xl z-10">
             <Image 
-              src="/images/hero/hero_bg.png" /* Reemplazar con foto real de la Casa Afro */
+              src="/images/casa_afro_1.png" 
               alt="Casa Afroputumayense exterior" 
               fill 
               className="object-cover"
@@ -49,7 +49,7 @@ export default function CasaAfroSection() {
           {/* Smaller overlapping image */}
           <div className="absolute bottom-0 left-0 w-[60%] h-[60%] rounded-lg overflow-hidden border-4 border-[#120803] shadow-xl z-20">
             <Image 
-              src="/images/hero/hero_bg.png" /* Reemplazar con foto interior/actividad */
+              src="/images/casa_afro_2.png" 
               alt="Actividad en la Casa Afro" 
               fill 
               className="object-cover"

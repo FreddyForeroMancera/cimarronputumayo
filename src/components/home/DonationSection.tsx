@@ -1,10 +1,15 @@
+'use client';
+
+import { useState } from 'react';
 import Image from 'next/image';
-import { Link } from '@/i18n/routing';
 import { Heart } from 'lucide-react';
 import { useTranslations } from 'next-intl';
+import DonateModal from '@/components/ui/DonateModal';
 
 export default function DonationSection() {
   const t = useTranslations('DonationSection');
+  const [isDonateModalOpen, setIsDonateModalOpen] = useState(false);
+
   return (
     <section className="relative w-full py-24 lg:py-32 flex justify-center bg-[#2A1308] overflow-hidden">
       {/* Background Image with Overlay */}
@@ -42,13 +47,15 @@ export default function DonationSection() {
           <p className="font-bold text-[#F2A900]">{t('p2')}</p>
         </div>
 
-        <Link 
-          href="/donaciones" 
+        <button 
+          onClick={() => setIsDonateModalOpen(true)}
           className="inline-block bg-[#F2A900] hover:bg-[#D99700] rounded px-10 py-4 font-sans font-bold text-sm uppercase tracking-widest text-[#120803] transition-colors duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-1"
         >
           {t('btn')}
-        </Link>
+        </button>
       </div>
+
+      <DonateModal isOpen={isDonateModalOpen} onClose={() => setIsDonateModalOpen(false)} />
     </section>
   );
 }

@@ -35,10 +35,10 @@ export default function EsenciaSection() {
         {/* Left: Images / Collage */}
         <div className="relative w-full h-[500px] hidden lg:block">
           <div className="absolute top-0 left-0 w-[65%] h-[70%] rounded shadow-xl overflow-hidden z-10 border-4 border-[#E8DCC8]">
-            <Image src="/images/hero/hero_bg.png" alt="Cultura Afroputumayense" fill className="object-cover" />
+            <Image src="/images/esencia_1.png" alt="Cultura Afroputumayense" fill className="object-cover" />
           </div>
           <div className="absolute bottom-0 right-0 w-[70%] h-[60%] rounded shadow-2xl overflow-hidden z-20 border-4 border-[#E8DCC8]">
-            <Image src="/images/hero/hero_bg.png" alt="Comunidad Putumayo" fill className="object-cover" />
+            <Image src="/images/esencia_2.png" alt="Comunidad Putumayo" fill className="object-cover" />
           </div>
           {/* Decorative shapes */}
           <div className="absolute -top-6 -left-6 w-32 h-32 border-2 border-[#F2A900]/30 rounded-full z-0"></div>
